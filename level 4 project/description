@@ -1,0 +1,5 @@
+The purpose of this website/page is to allow a user to create a postcard/card with a picture of a cat or dog as the background. The picture will be generated randomly. The user will not be able to upload their own picture.
+
+MVP - There will be a home screen that explains the purpose of the website and then a cat link and a dog link. The pages will look identical, but one will have the cat background and the other the dog background -- this way the site will have very minimal code to complete what is needed.
+
+User Stories - The user will be greated with a home page right from the start, that has instructions on what they can and can't do. The user will then pick either the cat or dog link. Once on the link they will be able to create their desired postcard/card. 
